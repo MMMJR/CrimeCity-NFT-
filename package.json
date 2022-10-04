@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "A nft game project.",
+  "main": "index.js --openssl-legacy-provider",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3",
+    "@openzeppelin/contracts-upgradeable": "^4.3.3",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "ganache-cli": "^6.12.2",
+    "JSON": "^1.0.0",
+    "nvm": "^0.0.4",
+    "pify": "^5.0.0",
+    "truffle": "^5.4.19"
+  }
+}

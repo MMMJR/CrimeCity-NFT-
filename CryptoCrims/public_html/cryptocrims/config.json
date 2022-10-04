@@ -1,0 +1,28 @@
+{"Config" : [
+    {
+        "utils": "0xb1424663AA5c3CF93EeEac6A3556C3cd7EF48435",
+        "itemlist": "0x5AB6Faa30A5698D63110c861e0cCDF8EAa5dd5A5",
+        "gang": "0x54D1E7a213dA871B18C50A237958AF9cADc4f7B5", 
+        "character": "0xc5E9725965FF3B2528e2b9B1BFC78A8082A6a029",
+        "gameitem": "0x0C94d6A9e260759bBa699f10384C3e365FC431D5",
+        "factory": "0xcF1679EBf1216fE5B7c75E3A9cB428646F4f5568",
+        "webutils": "0x4B5eb4507BA4b164e6598fc5BeA5B32aBe6b92D1",
+        "ranking": "0x536cbE6bd706b3645A559A86B37918497DB17355",
+        "characterutils": "0x8f0C4c7E072cd19Fa9F9f55E907690F414a3953c",
+        "trade": "0xF08837cEE8eF38D0B19fFa2a1bd20B01D859F442",
+        "seasonmanager": "0xdf5B887fb245A135326647eAAcfaA0d9624d5552",
+        "coreingame": "0x50b0b83cb61046D5eB2Ecbd440af0e34399Bc412",
+        "core": "0x6917928530741F3748F5da375f2BF726916c1f00",
+        "marketplace": "0xb9fF01dB499eCe12da257fF3Da5a22F508388ea6",
+        "blackmarket": "0xbA551a595313692Bc3FF7bD03f5827bcd22a5d56",
+        "equipment": "0xA9E2C02D88119DA96b8a70CfD3B69958cC95E615",
+        "hospitalprison": "0xDDA1EF0ce9556C8955CAd383DEc99B82Aa007573",
+        "robbery": "0xE70EAE344F9525981CB2A6268Dc5db59b49c0A79",
+        "pvp": "0xce2D5c13cA7345d9C6c07D3C98EFDfc18B96cfb2",
+        "gasPriceVeryFast": "40000000000",
+        "gasLimitVeryFast": "400000",
+        "gasPriceFast": "25000000000",
+        "gasLimitFast": "250000"
+    }
+    ]
+ }
