@@ -1,4 +1,4 @@
-This is a game made with erc structure by me DISCORD: MarceloJr#7526  
+This is a game made with erc structure.
 
 To made this project i use a html website template GodLike, if you use godlike code, Buy this template: https://themeforest.net/item/godlike-the-game-template/17166433?gclid=CjwKCAjws--ZBhAXEiwAv-RNL1Cnlxs5yFo0MLkuJK29pMLjCWv3cx8kD6P1k6w5V7tblO9KrPl86BoC9psQAvD_BwE
 
