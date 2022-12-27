@@ -76,6 +76,7 @@ HOW TO PLAY:
 -Players can do Robbery or PvP only one time per day, can buy and equip weapons and buy factorys and sell products to blackmarket or in Marketplace Auction.
 
 If this is helpfull for you and you can do a donation to my wallet: 
+Discord: MarceloJr#7526
 (BSC) (ETH) (POLYGON): 0x29A47cA226F7C4330c06d21E4D435bB1D4230787
 
 THANKS FOR ALL HAVE CONTRIBUTE TO PROJECT
